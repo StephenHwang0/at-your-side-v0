@@ -1,0 +1,5 @@
+sailor2
+3
+Even us sailors can enjoy the ocean too sometimes.
+But no, we don't actually live at sea. Actually,/most of us in this city live in the apartment/building northwest from here.
+end

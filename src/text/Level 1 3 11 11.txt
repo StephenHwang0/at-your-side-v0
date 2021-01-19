@@ -1,0 +1,5 @@
+sailor1
+3
+Most of us sailors live here.
+It's great because our families can support each/other when we're at sea.
+end

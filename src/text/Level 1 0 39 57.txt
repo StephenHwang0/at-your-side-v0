@@ -1,0 +1,5 @@
+villager1
+2
+Sometimes I ask myself, "Why am I here?" But then/I look around, and see so many people asking the/same question.
+I think that when you help other people answer/that question, you'll eventually answer it/yourself.
+end

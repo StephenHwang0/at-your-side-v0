@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="bin/" manifest="" root="" work="src/">
+    <createjar file="" flags="12"/>
+    <source>
+      <file active="true" name="src/Window.java" package="" timestamp="10-Jun-2019 10:36:45">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Mara.java" package="" timestamp="09-Jun-2019 22:53:09">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Score.java" package="" timestamp="09-Jun-2019 23:13:16">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Room.java" package="" timestamp="10-Jun-2019 10:33:48">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Character.java" package="" timestamp="10-Jun-2019 10:34:51">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Game.java" package="" timestamp="10-Jun-2019 10:35:35">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/ImportantCharacter.java" package="" timestamp="10-Jun-2019 10:35:49">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+      <file name="src/Map.java" package="" timestamp="10-Jun-2019 10:36:14">
+        <select from="770" to="770"/>
+        <scroll column="24" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

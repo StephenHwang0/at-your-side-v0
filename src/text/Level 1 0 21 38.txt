@@ -1,0 +1,5 @@
+villager7
+3
+You know, I don't really like sand.
+But if my friends want to play in the sand, then/I'll have to like sand.
+end

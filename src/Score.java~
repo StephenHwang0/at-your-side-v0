@@ -1,0 +1,39 @@
+public class Score
+{
+  private int score1, score2, score3, total;
+  private String name;
+  
+  public Score (int score1, int score2, int score3, String name)
+  {
+    this.score1 = score1;
+    this.score2 = score2;
+    this.score3 = score3;
+    this.name = name;
+    total = score1 + score2 + score3;
+  }
+  
+  public int getScore1 ()
+  {
+    return score1;
+  }
+  
+  public int getScore2 ()
+  {
+    return score2;
+  }
+  
+  public int getScore3 ()
+  {
+    return score3;
+  }
+  
+  public int getTotal ()
+  {
+    return total;
+  }
+  
+  public String getName ()
+  {
+    return name;
+  }
+}

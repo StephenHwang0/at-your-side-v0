@@ -1,0 +1,5 @@
+villager5
+3
+Sometimes the docks creak, and I get scared.
+I wish I had someone to hold my hand...
+end

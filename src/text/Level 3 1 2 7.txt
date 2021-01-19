@@ -1,0 +1,24 @@
+*attendant1
+3
+Hello, and welcome to Center Park!
+end
+Has a mother come by here looking for her child?/I don’t think so…
+There was someone though. He came in here and/asked if a kid came in here, and then left.
+He just went outside. Maybe it was the father?
+end
+There was someone though. He came in here and/asked if a kid came in here, and then left.
+He just went outside. Maybe it was the father?
+end
+Oh, hello. I supposed that wasn’t the person you/were looking for?
+Well, someone came just came in and asked me if/her daughter came here today. A girl with pink/hair.
+To be honest, it was kind of weird. After I said/no, she said she’d be in the area with the picnic/tables and left.
+Maybe you should go and talk to her.
+end
+Well, someone came just came in and asked me if/her daughter came here today. A girl with pink/hair.
+To be honest, it was kind of weird. After I said/no, she said she’d be in the area with the picnic/tables and left.
+Maybe you should go and talk to her.
+end
+Hello, and welcome to Center Park!
+end
+1
+3

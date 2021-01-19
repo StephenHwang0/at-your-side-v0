@@ -1,0 +1,5 @@
+storeclerk
+3
+Oh, don't worry about it.
+The value of the things she stole isn't much, but/I'm more worried about the reason behind it.
+end

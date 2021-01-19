@@ -1,0 +1,26 @@
+mara
+61
+29
+8
+Pro: Hey. What's up, Mara?
+Mara: Pro... why are you here?
+Pro: I've been worried. You've been acting/differently lately.
+Mara: Have I? Oh, if this is about the stealing,/I wouldn't worry. It doesn't really matter.
+Pro: Mara...
+Mara: I'm alright, okay? Don't waste your time on/me.
+Pro: Do you want to talk to me about it?
+Mara: No. Just leave me alone.
+Mara: ...
+Mara: Actually, don't go. Please.
+Mara: Um, my parents are going through a difficult/time right now. I don't know exactly why.
+Mara: Our family has never been rich, and we've/been struggling to get by recently. And then/apparently my Dad did something.
+Mara: My mom exploded, and now they're going to/get a divorce. I don't want them to, but it's/gonna happen anyways...
+Mara: Sometimes I wonder if it's my fault. If I/was a better kid, I'm sure this wouldn't have/happened. I'm sure.
+Mara: Pro, I don't know what to do now. I feel so/lonely now, and it hurts. It hurts a lot.
+Mara: Promise me, Pro. Promise me that you'll be/there. Promise me that you'll find me, like you/did today.
+Pro: Mara...
+Pro: I promise.
+Mara: Thank you.
+Mara: I guess it's time for me to go home. It's/getting late, and Dad will be worried.
+Mara: I'll see you tomorrow, okay?
+end

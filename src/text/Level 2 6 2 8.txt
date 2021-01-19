@@ -1,0 +1,49 @@
+*teacher1
+3
+Pro: Hey, Ms. Flores...
+Ms. Flores: Oh, Pro, great timing. I need a little/favour from you.
+Ms. Flores: Could you take these papers to the/teacher in the art room? It's really urgent.
+(Ms. Flores gives you a stack of papers.)
+Ms. Flores: Thanks, Pro!
+end
+Could you take these papers to the teacher in the/art room? It's really urgent.
+Thanks, Pro!
+end
+Thanks again, Pro.
+I'm sorry, but I'll need to borrow you again. The/janitor just came in here saying he lost his/broom.
+Could you go find him and help him out?
+end
+The janitor just came in here saying he lost his/broom.
+Could you go find him and help him out?
+end
+Did you guys find his broom yet?
+end
+Does the janitor know where his broom is?
+end
+Hey, Pro. You look a little tired.
+(She laughs, but then smiles sadly.)
+I understand you need to ask me something, but/before you do, could you do one last thing for/me?
+Go to the computer science classroom and check on/the red-haired kid.
+end
+I understand you need to ask me something, but/before you do, could you do one last thing for/me?
+Go to the computer science classroom and check on/the red-haired kid.
+end
+Ah, he’s alright. He’s been having some trouble/adjusting to this school.
+Now, I know your looking for Mara, but before I/tell you where she is, you’ll have to listen to/me talk for a bit.
+As you probably know, Mara’s been going through/some hard times.
+Once the school found out about her recent/activities, she was almost suspended, but because/of her circumstances, she was excused.
+I allow her to stay after school so she can be/alone, which she needs, especially with her home/being a wreck at the moment.
+If you go, I want you to promise me one thing./Promise me that you’ll be there for her, and not/yourself.
+Right now, she doesn’t want to be pestered for/information or given advice.
+All she wants is a listening ear, a shoulder to/cry on. Nothing more, nothing less.
+…
+Mara’s in the classroom beside the girl's/washroom. She asked me to tell you where she is.
+She’s blessed to have a friend like you, Pro. But/try to bless her a little more, okay?
+end
+Mara’s in the classroom beside the girl's/washroom. She asked me to tell you where she is.
+She’s blessed to have a friend like you, Pro. But/try to bless her a little more, okay?
+end
+0
+2
+6
+8

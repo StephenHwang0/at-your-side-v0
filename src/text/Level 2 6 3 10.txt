@@ -1,0 +1,5 @@
+student2
+1
+Summer's approaching, so a lot of students are/skipping class.
+I get the appeal, but why shouldn't they stay in/class to learn and then go out after?
+end

@@ -1,0 +1,44 @@
+*homeless
+3
+Homeless Man: Have I seen a girl with pink hair?
+Homeless Man: I think I did. She ran off not too/long ago, so she's probably around here/somewhere.
+Pro: Do you think you could find her for me?
+Homeless Man: Mmm, to be honest, I don't think I/can. You see, my dog has gone missing, and I/need to find it as soon as possible.
+Homeless Man: Oh, I know! How about you go and/find my dog, and in return I'll go find your/girlfriend? Sounds like a deal right?
+Homeless Man: My dog's name is Buster, and he's a/real scrapper, that one. You need to be careful/with him.
+Homeless Man: His name is on his collar, but he/might bite you if you get too close.
+Homeless Man: It'd probably be best if you brought/him a bone or something. I dunno where you'd find/one, but you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+My dog's name is Buster, and he's a real scrapper,/that one. You need to be careful with him.
+His name is on his collar, but he might bite you/if you get too close.
+It'd probably be best if you brought him a bone/or something. I dunno where you'd find one, but/you'll probably figure it out.
+end
+Hey there! You found him? Great! I'll pick him up/later.
+I think the girl you're looing for is on the/docks. She was staring off into the ocean.
+Good luck with her, kid. And thanks again. We all/need help sometimes, even though it kills us to/ask for it.
+end
+I think the girl you're looing for is on the/docks. She was staring off into the ocean.
+Good luck with her, kid. And thanks again. We all/need help sometimes, even though it kills us to/ask for it.
+end
+0
+7

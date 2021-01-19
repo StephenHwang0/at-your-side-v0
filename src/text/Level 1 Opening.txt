@@ -1,0 +1,23 @@
+Pro: Mara's been acting weird recently. I hope/she's alright...
+Pro: ...
+Clerk: Hey, you! Could you come here for a sec?
+Pro: Um, alright...
+Clerk: I've seen you with a pink-haired girl/often. Do you know who I'm talking about?
+Pro: Yeah, that's my friend.
+Clerk: Well, your friend has been stealing my/store for a week now. Other stores too, I've/heard.
+Pro: What? Mara would never...
+Mara's Dad: Hey, Pro, I'm Mara's dad. You/haven't met me yet, but I've heard a lot about/you.
+Mara's Dad: What the store clerk is saying is/true. She has been stealing from stores around here.
+Mara's Dad: I'm sorry about that. She's my/daughter. Please, tell me the value of the/things she stole and I'll reimburse you.
+Mara's Dad: It's all my fault, really. Please be/patient with her.
+Clerk: Oh, it's okay I suppose.
+Clerk: The value of the things she stole isn't/much, but I'm more worried about the reason/behind this.
+Mara's Dad: Thank you for your concern.
+Mara's Dad: Hey, Pro. You heard all that? I guess/you're worried about Mara.
+Mara's Dad: Mara's mother and I are having a/little fight, you see, and I don't think Mara's/taking it well. You've probably noticed that.
+Mara's Dad: I've suspected that she's been doing/something like this, and I suppose it's somewhat/understandable.
+Mara's Dad: However, it still hurts to see her/like this. I wish I could help her, but as the/person causing her troubles, I don't think I can.
+Mara's Dad: ...
+Mara's Dad: Pro, could you do me a favour?
+Mara's Dad: Go after Mara and talk to her./Please.
+end

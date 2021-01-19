@@ -1,0 +1,20 @@
+*villager13
+3
+The flowers are very pretty, eh?
+My daughter loves flowers, so every year we go/here and look at them. I think it's precious to/both of us.
+end
+The flowers are very pretty, eh?
+My daughter loves flowers, so every year we go/here and look at them. I think it's precious to/both of us.
+end
+Um, I already found my child. But thank you for/your concern.
+Oh, wait, another kid lost his mother? That’s/rough. I’ll let the information building know if/I see someone looking around.
+For now, you should probably go back and see if/someone else came by.
+end
+Oh, wait, another kid lost his mother? That’s/rough. I’ll let the information building know if/I see someone looking around.
+For now, you should probably go back and see if/someone else came by.
+end
+Oh, wait, another kid lost his mother? That’s/rough. I’ll let the information building know if/I see someone looking around.
+end
+Oh, wait, another kid lost his mother? That’s/rough. I’ll let the information building know if/I see someone looking around.
+end
+2

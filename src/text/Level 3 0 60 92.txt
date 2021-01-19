@@ -1,0 +1,14 @@
+*mara2
+4
+Hey, that kid is crying! Go talk to him, Pro.
+end
+He lost his mom? Yeah, go find her. I'll stay here/and make sure he doesn't run away.
+end
+Go find his mom. I'll stay here and make sure he/doesn't run away.
+end
+Go find his mom. I'll stay here and make sure he/doesn't run away.
+end
+Go find his mom. I'll stay here and make sure he/doesn't run away.
+end
+blank
+end

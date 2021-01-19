@@ -1,0 +1,35 @@
+*janitor
+3
+When students help me clean up, it makes me feel/warm inside.
+However, it doesn't happen too often...
+end
+When students help me clean up, it makes me feel/warm inside.
+However, it doesn't happen too often...
+end
+When students help me clean up, it makes me feel/warm inside.
+However, it doesn't happen too often...
+end
+Huh? Ms. Flores sent you? Alright.
+You see, I lost my other broom somewhere, and I/really need it or I won’t be able to go home.
+I honestly forgot where I left it, but I’ve looked/through the halls already, so it’s probably in a/room.
+If you find it, come back here and let me know./Thanks so much!
+end
+I honestly forgot where I left it, but I’ve looked/through the halls already, so it’s probably in a/room.
+If you find it, come back here and let me know./Thanks so much!
+end
+It was in the washroom?!? Wow. I’m really sorry,/I should’ve thought of that.
+You look like you still have something to do. I/won’t keep you any longer. 
+Thanks for taking some time to help, kid. You were/a real help.
+You go tell Ms. Flores that, too. Earn some cookie/points.
+end
+Thanks for taking some time to help, kid. You were/a real help.
+You go tell Ms. Flores that, too. Earn some cookie/points.
+end
+Thanks for taking some time to help, kid. You were/a real help.
+end
+Thanks for taking some time to help, kid. You were/a real help.
+end
+Thanks for taking some time to help, kid. You were/a real help.
+end
+3
+5

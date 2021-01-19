@@ -1,0 +1,5 @@
+student10
+1
+I enjoy looking at books, but I don't think my/friend does.
+I'll have to hurry up so I don't leave him/waiting.
+end

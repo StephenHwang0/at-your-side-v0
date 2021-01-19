@@ -1,0 +1,5 @@
+student8
+1
+I can't stand looking at books...
+But if my friend wants to look at them, I guess/I'll have too as well.
+end

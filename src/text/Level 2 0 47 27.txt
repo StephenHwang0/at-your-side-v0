@@ -1,0 +1,5 @@
+student1
+4
+The trick to doing well in school isn't being/smart.
+The trick to doing well in school is having smart/friends.
+end

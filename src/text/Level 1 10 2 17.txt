@@ -1,0 +1,39 @@
+*butcher
+3
+This butcher shop has been my family's for four/generations now.
+Sometimes I wish that I did something else, but/at the end of the day, family is first.
+end
+You want a bone? Well, sorry, but I don't have/one right now.
+I'm waiting on my shipment so I only have one/rack of ribs left, and I already sold it to/someone. I don't know when she's coming in.
+I'll tell you what, though. If you can find her/and ask her if you can have a bone, I'll take it/off for you.
+She came in here with her husband about half an/hour ago. Big guy, looked like he was a sailor.
+They come in here often, so they probably live/nearby.
+end
+I'll tell you what, though. If you can find her/and ask her if you can have a bone, I'll take it/off for you.
+She came in here with her husband about half an/hour ago. Big guy, looked like he was a sailor.
+They come in here often, so they probably live/nearby.
+end
+I'll tell you what, though. If you can find her/and ask her if you can have a bone, I'll take it/off for you.
+She came in here with her husband about half an/hour ago. Big guy, looked like he was a sailor.
+They come in here often, so they probably live/nearby.
+end
+I'll tell you what, though. If you can find her/and ask her if you can have a bone, I'll take it/off for you.
+She came in here with her husband about half an/hour ago. Big guy, looked like he was a sailor.
+They come in here often, so they probably live/nearby.
+end
+Oh, hey kid! That sailor guy called in and said/you could have a bone. Still don't know why you/want it, but here you go.
+(You obtain a bone)
+The sailor guy said you looked troubled, and now/that I think about it, you do. If you ever feel/down, talk to someone, okay?
+It's always good to have someone by your side.
+end
+The sailor guy said you looked troubled, and now/that I think about it, you do. If you ever feel/down, talk to someone, okay?
+It's always good to have someone by your side.
+end
+The sailor guy said you looked troubled, and now/that I think about it, you do. If you ever feel/down, talk to someone, okay?
+It's always good to have someone by your side.
+end
+The sailor guy said you looked troubled, and now/that I think about it, you do. If you ever feel/down, talk to someone, okay?
+It's always good to have someone by your side.
+end
+1
+5

@@ -1,0 +1,237 @@
+import java.util.ArrayList;
+import java.awt.image.*;
+import java.io.*;
+import javax.imageio.ImageIO;
+/**
+ * Character class that contains the attributes and behaviours of an interactive in-game character. <br>
+ * Time spent: 10 hours <br>
+ * Updates: 2.0 - no significant updates <br>
+ *          3.0 - added individual sprites for each character <br>
+ *          4.0 - added methods for polymorphism <br>
+ * 
+ * <h2>Course Info:</h2>
+ * ICS4U0 with Ms. Krasteva
+ * 
+ * @author Stephen Hwang and Juleen Chen
+ * @version 4.0 - 10/06/2019
+ * 
+ * <pre>
+ * Global Variable Library
+ * Name      Type               Description
+ * r         int                Character's row value on the map
+ * c         int                Character's column value on the map
+ * count     int                Current number of dialogue options spoken
+ * total     int                Total number dialogue Strings
+ * facing    int                Direction the character is facing (1 for up, 2 for right, 3 for down, 4 for left)
+ * talkedTo  boolean            Determines whether this character has been talked to
+ * name      String             Character's name
+ * dialogue  ArrayList&lt;String&gt;  List of all the character's dialogue
+ * image1    BufferedImage      Character sprite facing north
+ * image2    BufferedImage      Character sprite facing east
+ * image3    BufferedImage      Character sprite facing south
+ * image4    BufferedImage      Character sprite facing west
+ * </pre>
+ */
+public class Character
+{
+  private int r, c, count, total, facing;
+  private boolean talkedTo;
+  private String name;
+  private ArrayList<String> dialogue = new ArrayList<String> ();
+  private BufferedImage image1, image2, image3, image4;
+  
+  /**
+   * Class constructor that initiates all the object's values
+   * Updates 2.0 - added sprite initiation
+   * 
+   * @param r the Character object's row number
+   * @param c the Character object's column number
+   * @param name the Character object's name
+   */
+  public Character (int r, int c, String name)
+  {
+    this.r = r;
+    this.c = c;
+    this.name = name;
+    talkedTo = false;
+    count = 0;
+    total = 0;
+    facing = 3;
+    try
+    {
+      image1 = ImageIO.read (new File ("graphics/" + name + "1.png"));
+      image2 = ImageIO.read (new File ("graphics/" + name + "2.png"));
+      image3 = ImageIO.read (new File ("graphics/" + name + "3.png"));
+      image4 = ImageIO.read (new File ("graphics/" + name + "4.png"));
+    }
+    catch (Exception e) {}
+  }
+  
+  /**
+   * Return method that returns the character sprite depending on which way the character is facing
+   * Updates 3.0 - method created
+   * 
+   * @return the character sprite facing the right way
+   */
+  public BufferedImage getImage ()
+  {
+    if (facing == 1)
+      return image1;
+    else if (facing == 2)
+      return image2;
+    else if (facing == 3)
+      return image3;
+    else
+      return image4;
+  }
+  
+  /**
+   * Return method that returns the character's row value
+   * Updates 3.0 - method created
+   * 
+   * @return the character's row value
+   */
+  public int getR ()
+  {
+    return r;
+  }
+  
+  /**
+   * Return method that returns the character's column value
+   * Updates 3.0 - method created
+   * 
+   * @return the character's column value
+   */
+  public int getC ()
+  {
+    return c;
+  }
+  
+  /**
+   * Return method that returns the current number of dialogue lines viewed
+   * 
+   * @return the number of dialogue lines viewed
+   */
+  public int getCount ()
+  {
+    return count;
+  }
+  
+  /**
+   * Return method that returns the total number of possible dialogue lines
+   * 
+   * @return the number of possible dialogue lines
+   */
+  public int getTotal ()
+  {
+    return total;
+  }
+  
+  /**
+   * Return method that returns the Character's name
+   * 
+   * @return the Character's name
+   */
+  public String getName ()
+  {
+    return name;
+  }
+  
+  /**
+   * Return method that returns the dialogue line at the specified index
+   * 
+   * @param index which dialogue option is called
+   * @return the next unviewed dialogue line
+   */
+  public String getDialogue (int index)
+  {
+    count++;
+    return dialogue.get (index);
+  }
+  
+  /**
+   * Return method that returns whether or not this character has been talked to
+   * Updates: 4.0 - method created
+   * 
+   * @return true if the character has been talked to and false if not
+   */
+  public boolean getTalkedTo ()
+  {
+    if (!talkedTo)
+    {
+      talkedTo = true;
+      return false;
+    }
+    return talkedTo;
+  }
+  
+  /**
+   * Void method that adds a line of dialogue to the ArrayList of dialogue
+   * 
+   * @param line the String being added to the list of dialogue
+   */
+  public void addDialogue (String line)
+  {
+    dialogue.add (line);
+    total++;
+  }
+  
+  /**
+   * Void method that sets the way that the character is facing
+   * Updates 3.0 - method created
+   * 
+   * @param facing the direction the character should be facing
+   */
+  public void setFacing (int facing)
+  {
+    this.facing = facing;
+  }
+  
+  /**
+   * Void increases private variable count by one for subclasses
+   * Updates 4.0 - method created
+   */
+  public void addCount ()
+  {
+    count++;
+  }
+  
+  /**
+   * Void method that sets the total number of current dialogue lines
+   * Updates 4.0 - method created
+   * 
+   * @param total the number of current dialogue lines
+   */
+  public void setTotal (int total)
+  {
+    this.total = total;
+  }
+  
+  /**
+   * Void method that resets the Character, allowing it to be spoken to again
+   */
+  public void reset ()
+  {
+    count = 0;
+  }
+  
+  /**
+   * Void method that updates the Character (only used in subclasses)
+   * Updates 4.0 - method created
+   * 
+   * @param stage the current stage of the game
+   */
+  public void update (int stage) {}
+  
+  /**
+   * Return method that checks if the character is crucial to the storyline at a particular stage (only used in subclasses)
+   * Updates 4.0 - method created
+   * 
+   * @param stage the current stage of the game
+   * @return false because regular characters are never crucial to the storyline
+   */
+  public boolean checkStage (int stage)
+  {
+    return false;
+  }
+}

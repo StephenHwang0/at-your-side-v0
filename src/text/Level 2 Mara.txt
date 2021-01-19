@@ -1,0 +1,18 @@
+mara
+55
+83
+9
+Mara: Hey, Pro.
+Pro: How are you feeling?
+Mara: I’m doing alright, I guess. I don’t know./Maybe.
+Mara: At this point, I don’t really feel anything./I feel tired.
+Mara: I don’t know what to do anymore, Pro. I/don’t know if there’s anything I can do.
+Mara: I don’t want my parents to split, but I/don’t think I have a say in it at this point…
+Mara: …
+Pro: Hey, um…
+Pro: Are you free tomorrow? If not, do you want/to go to the park? Not the one nearby, the big one/in the center of the city.
+Mara: Pro…
+Mara: Yes, I do. Thank you so much.
+Mara: It’s getting late, so we should probably get/going. Sorry for keeping you here.
+Mara: I’ll see you tomorrow, okay?
+end

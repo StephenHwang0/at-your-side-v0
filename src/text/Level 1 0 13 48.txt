@@ -1,0 +1,6 @@
+villager10
+4
+The sky is beautiful today...
+You know, I used to look at sunsets all the time/with my daughter.
+She's married now, and although she visits often,/sometimes I feel pretty lonely.
+end

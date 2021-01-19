@@ -1,0 +1,5 @@
+sailor1
+3
+When I have time off, I like to spend it with my/family.
+It's rough being away for work most of the time,/so I try to cherish whatever I can get.
+end

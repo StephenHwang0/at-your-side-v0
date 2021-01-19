@@ -1,0 +1,31 @@
+*marasmom
+3
+(The lady glances at you. She looks familiar, but/you're not sure if you know her.)
+end
+(The lady glances at you. She looks familiar, but/you're not sure if you know her.)
+end
+(The lady glances at you. She looks familiar, but/you're not sure if you know her.)
+end
+(The lady glances at you. She looks familiar, but/you're not sure if you know her.)
+end
+Pro: …
+Mara’s Mom: Hey, Pro.
+Mara’s Mom: When I heard that Mara was coming/here today, I thought that you’d probably be/here too.
+Mara’s Mom: You’re close to her, so I’m sure that/you already know what’s going on within our/family.
+Mara’s Mom: It’s understandable that Mara’s upset,/but thank you for being with her to cheer her up.
+Mara’s Mom: However, there’s something I came/here to tell you.
+Mara’s Mom: Me and Mara’s father will be filing/for a divorce in a couple weeks. After that, I’ll/be leaving the country to live with my parents.
+Mara’s Mom: I’m sorry, but Mara will be coming/with me. It’s already been decided.
+Mara’s Mom: …
+Mara’s Mom: I’m really sorry, Pro. I really am.
+Mara’s Mom: However, before I leave, I have one/request.
+Mara’s Mom: Be with her till the end, okay?
+end
+Me and Mara’s father will be filing for a divorce/in a couple weeks. After that, I’ll be leaving/the country to live with my parents.
+I’m sorry, but Mara will be coming with me. It’s/already been decided.
+…
+I’m really sorry, Pro. I really am.
+However, before I leave, I have one request.
+Be with her till the end, okay?
+end
+4

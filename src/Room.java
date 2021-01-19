@@ -1,0 +1,222 @@
+import java.util.ArrayList;
+import java.awt.image.*;
+import java.io.*;
+import javax.imageio.ImageIO;
+/**
+ * Room class that contains the attributes and behaviours of an in-game room. <br>
+ * Time spent: 5 hours <br>
+ * Updates: 4.0 - class created <br>
+ * 
+ * <h2>Course Info:</h2>
+ * ICS4U0 with Ms. Krasteva
+ * 
+ * @author Stephen Hwang and Juleen Chen
+ * @version 4.0 - 10/06/2019
+ * 
+ * <pre>
+ * Global Variable Library
+ * Name         Type                  Description
+ * number       int                   Room's number in the level
+ * level        int                   Which level this room appears in
+ * startingX    int                   X value when the player walks into the room (for graphics)
+ * startingY    int                   Y value when the player walks into the room (for graphics)
+ * exitX        int                   X value when the player leaves the room (for graphics)
+ * exitY        int                   Y value when the player leaves the room (for graphics)
+ * startingR    int                   Row value when the player walks into the room (for map array)
+ * startingC    int                   Column value when the player walks into the room (for map array)
+ * exitR        int                   Row value when the player leaves the room (for map array)
+ * exitC        int                   Column value when the player leaves the room (for map array)
+ * map          int                   Map of the room represented by a 2D array
+ * characters   ArrayList&lt;Character&gt;  List of all characters in this room
+ * background   BufferedImage         Picture of the background
+ * </pre>
+ */
+public class Room
+{
+  private int number, level, startingX, startingY, exitX, exitY, startingR, startingC, exitR, exitC;
+  private int[][] map;
+  private ArrayList<Character> characters = new ArrayList<Character> ();
+  private BufferedImage background;
+  
+  /**
+   * Empty class constructor
+   */
+  public Room () {}
+  
+  /**
+   * Class constructor that initializes all integer attributes and the background
+   * 
+   * @param number room's number in the level
+   * @param level which level this room appears in
+   * @param startingX x value when the player walks into the room (for graphics)
+   * @param startingY y value when the player walks into the room (for graphics)
+   * @param exitX x value when the player leaves the room (for graphics)
+   * @param exitY y value when the player leaves the room (for graphics)
+   * @param startingR row value when the player walks into the room (for graphics)
+   * @param startingC column value when the player walks into the room (for graphics)
+   * @param exitR row value when the player leaves the room (for graphics)
+   * @param exitC column value when the player leaves the room (for graphics)
+   */
+  public Room (int number, int level, int startingX, int startingY, int exitX, int exitY, int startingR, int startingC, int exitR, int exitC)
+  {
+    this.number = number;
+    this.level = level;
+    this.startingX = startingX;
+    this.startingY = startingY;
+    this.exitX = exitX;
+    this.exitY = exitY;
+    this.startingR = startingR;
+    this.startingC = startingC;
+    this.exitR = exitR;
+    this.exitC = exitC;
+    try
+    {
+      background = ImageIO.read (new File ("graphics/back" + level + "" + number + ".png"));
+    }
+    catch (Exception e) {}
+  }
+  
+  /**
+   * Void method that sets the 2D array map
+   * 
+   * @param map the 2D array map of this room
+   */
+  public void setMap (int[][] map)
+  {
+    this.map = map;
+  }
+  
+  /**
+   * Void method that makes Mara appear or makes other characters disappear
+   * 
+   * @param row the row of the element being changed
+   * @param column the column of the element being changed
+   */
+  public void setMara (int row, int column)
+  {
+    if (map[row][column] != 3)
+      map[row][column] = 3;
+    else
+      map[row][column] = 1;
+  }
+  
+  /**
+   * Void method that adds a character to the list of characters
+   * 
+   * @param ch the Character object being added
+   */
+  public void addCharacter (Character ch)
+  {
+    characters.add (ch);
+  }
+  
+  /**
+   * Return method that returns the x value when the player walks into the room (for graphics)
+   * 
+   * @return the x value when the player walks into the room (for graphics)
+   */
+  public int getStartingX ()
+  {
+    return startingX;
+  }
+  
+  /**
+   * Return method that returns the y value when the player walks into the room (for graphics)
+   * 
+   * @return the y value when the player walks into the room (for graphics)
+   */
+  public int getStartingY ()
+  {
+    return startingY;
+  }
+  
+  /**
+   * Return method that returns the x value when the player leaves the room (for graphics)
+   * 
+   * @return the x value when the player leaves the room (for graphics)
+   */
+  public int getExitX ()
+  {
+    return exitX;
+  }
+  
+  /**
+   * Return method that returns the y value when the player leaves the room (for graphics)
+   * 
+   * @return the y value when the player leaves the room (for graphics)
+   */
+  public int getExitY ()
+  {
+    return exitY;
+  }
+  
+  /**
+   * Return method that returns the row value when the player walks into the room (for array)
+   * 
+   * @return the row value when the player walks into the room (for array)
+   */
+  public int getStartingR ()
+  {
+    return startingR;
+  }
+  
+  /**
+   * Return method that returns the column value when the player walks into the room (for array)
+   * 
+   * @return the column value when the player walks into the room (for array)
+   */
+  public int getStartingC ()
+  {
+    return startingC;
+  }
+  
+  /**
+   * Return method that returns the row value when the player leaves the room (for array)
+   * 
+   * @return the row value when the player leaves the room (for array)
+   */
+  public int getExitR ()
+  {
+    return exitR;
+  }
+  
+  /**
+   * Return method that returns the column value when the player leaves the room (for array)
+   * 
+   * @return the column value when the player leaves the room (for array)
+   */
+  public int getExitC ()
+  {
+    return exitC;
+  }
+  
+  /**
+   * Return method that returns the map represented by a 2D array
+   * 
+   * @return the map represented by a 2D array
+   */
+  public int[][] getMap ()
+  {
+    return map;
+  }
+  
+  /**
+   * Return method that returns the list of characters
+   * 
+   * @return the ArrayList of Character objects
+   */
+  public ArrayList<Character> getCharacters ()
+  {
+    return characters;
+  }
+  
+  /**
+   * Return method that returns the image of the background
+   * 
+   * @return the image of the background
+   */
+  public BufferedImage getBackground ()
+  {
+    return background;
+  }
+}

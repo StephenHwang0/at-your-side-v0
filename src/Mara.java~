@@ -1,0 +1,36 @@
+/**
+ * Mara class that extends the Character class so that the character, Mara, only appears only at a specified stage <br>
+ * Time spent: 2 hours <br>
+ * Updates: 4.0 - class created <br>
+ * 
+ * <h2>Course Info:</h2>
+ * ICS4U0 with Ms. Krasteva
+ * 
+ * @author Stephen Hwang and Juleen Chen
+ * @version 4.0 - 10/06/2019
+ * 
+ * <pre>
+ * Global Variable Library
+ * Name      Type       Description
+ * stage     int        stage that the character appears on
+ * </pre>
+ */
+public class Mara extends Character
+{
+  private int stage;
+  
+  public Mara (int r, int c, String name)
+  {
+    super (r, c, name);
+  }
+  
+  public void setStage (int stage)
+  {
+    this.stage = stage;
+  }
+  
+  public boolean checkStage (int stage)
+  {
+    return this.stage == stage;
+  }
+}

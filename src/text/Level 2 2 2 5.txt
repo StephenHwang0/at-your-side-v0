@@ -1,0 +1,5 @@
+student10
+1
+I needed to talk to the teacher about an/assignment, so I asked my friend to wait for me/down the hall.
+He's pretty impatient sometimes, so I hope he/isn't too upset.
+end

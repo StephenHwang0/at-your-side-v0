@@ -1,0 +1,26 @@
+*villager11
+4
+Pro: Hey, what’s wrong?
+Child: I-I can’t find my mama…
+Child: *sniff*
+Pro: Hey, it’s okay. I’ll help you find her.
+Pro: Just stay put and that lady over there will/look after you, okay?
+(You should probably check the information center/first.)
+end
+Child: I-I can’t find my mama…
+Child: *sniff*
+Pro: Hey, it’s okay. I’ll help you find her.
+(You should probably check the information center/first.)
+end
+I-I can’t find my mama…
+*sniff*
+end
+I-I can’t find my mama…
+*sniff*
+end
+I-I can’t find my mama…
+*sniff*
+end
+blank
+end
+0

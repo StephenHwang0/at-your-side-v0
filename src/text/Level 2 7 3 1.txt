@@ -1,0 +1,24 @@
+*broom
+3
+(It's a broom.)
+end
+(It's a broom.)
+end
+(It's a broom.)
+end
+(It's a broom.)
+end
+(You found the broom.)
+Pro: Guess I should probably go tell the/janitor...
+end
+Pro: He still hasn't picked it up...
+end
+Pro: He still hasn't picked it up...
+end
+Pro: He still hasn't picked it up...
+end
+Pro: He still hasn't picked it up...
+end
+Pro: He still hasn't picked it up...
+end
+4

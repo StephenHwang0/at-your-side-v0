@@ -1,0 +1,5 @@
+student8
+4
+My friend is talking to the teacher, so I'm/waiting for her.
+Waiting really sucks, but I guess if you want to/have friends, you have to get used to it.
+end
